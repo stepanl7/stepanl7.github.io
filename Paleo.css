@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+main{
+  width:100%;
+  background-color: #e1e3e8;
+}
+aside{
+  float:left;
+  width:11%;
+  padding: 2%;
+
+}
+section{
+  display: inline-block;
+  width:75%;
+  background-color: #b3bdce;
+  padding: 5%;
+}
+h1{
+  text-align: center;
+  font-family: sans-serif;
+  font-style: oblique;
+
+}
+header{
+  padding: 5% 0;
+  background-image: url("/Users/larissajording/Documents/Projects/imgs/paleo1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color:white;
+}
