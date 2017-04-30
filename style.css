@@ -12,24 +12,24 @@ h1{
     font-family: sans-serif;
     font-style: oblique;
     padding: 5% 0
-  }
-  header{
-    padding: 5% 0;
-    background-image: url("/Users/larissajording/Documents/Projects/stepanl7.github.io/imgs/paleonew1.jpg");
-    background-size: cover;
-    color:white;
-  }
-  aside{
-    float:left;
-    width:11%;
-    padding: 2%;
+}
+header{
+  padding: 5% 0;
+  background-image: url("/Users/larissajording/Documents/Projects/stepanl7.github.io/imgs/paleonew1.jpg");
+  background-size: cover;
+  color:white;
+}
+aside{
+  float:left;
+  width:11%;
+  padding: 2%;
 
-  }
-  section{
-    display: inline-block;
-    width:75%;
-    background-color: #b3bdce;
-    padding: 5%;
-    font-family: inherit;
-    font-size: 25;
-  }
+}
+section{
+  display: inline-block;
+  width:75%;
+  background-color: #b3bdce;
+  padding: 5%;
+  font-family: inherit;
+  font-size: 25;
+}
